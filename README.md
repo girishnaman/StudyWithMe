@@ -1,6 +1,20 @@
 # StudyWithMe
 </div>
 
+## Overview
+The Study Room Chat Application is a platform that allows users to create and join chat rooms based on their specific study interests. It facilitates real-time communication between multiple users within these study rooms, fostering a collaborative learning environment.
+
+## Key Features
+* **Create Study Rooms**: Users can create their own study rooms, each dedicated to a specific study topic or subject.
+
+* **Join Study Rooms**: Other users can search for study rooms based on their interests and join those that align with their study goals.
+
+* **Real-time Chat**: The application enables real-time user communication within a study room through a chat interface.
+
+* **User Profiles**: Users have personalized profiles to view their study interests, join history, and other relevant information.
+
+* **Search Functionality**: Users can search for specific study rooms by name or topic, making it easier to find and connect with like-minded individuals.
+
 ### Cloning the repository
 
 --> Clone the repository using the command below :
