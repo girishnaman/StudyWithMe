@@ -11,7 +11,7 @@ git clone https://github.com/girishnaman/StudyWithMe.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd StudyWithMe
 
 ```
 
